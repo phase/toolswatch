@@ -5,7 +5,7 @@ This will randomly load a Bootswatch theme and apply it to your site.
 ##Where
 Simply put this into your `<head>`.
 ```html
-<script src="https://raw.githubusercontent.com/phase/toolswatch/master/randswatch.js"></script>
+<script src="http://jadonfowler.xyz/toolswatch/randswatch.js"></script>
 ```
 
 ##How
